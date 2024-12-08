@@ -39,6 +39,10 @@ export NOT_MY_KEY='A1b2C3d4E5f6G7h8I9j0K1l2M3n4O5pa'
 
 creat a virtual enviorment.
 
+Install requirements.
+
+Export key.
+
 run the main server by compiling:
 python jwks_server.py
 
